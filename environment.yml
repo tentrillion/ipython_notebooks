@@ -5,9 +5,7 @@ dependencies:
 - alabaster=0.7.7=py27_0
 - anaconda=2.5.0=np110py27_0
 - anaconda-client=1.2.2=py27_0
-- appscript=1.0.1=py27_0
 - argcomplete=1.0.0=py27_1
-- astropy=1.1.1=np110py27_0
 - babel=2.2.0=py27_0
 - backports_abc=0.4=py27_0
 - beautifulsoup4=4.4.1=py27_0
